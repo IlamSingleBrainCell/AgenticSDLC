@@ -414,6 +414,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If this project helps you, please give it a star! ⭐**
 
-Made with ❤️ by the Agentic SDLC Team
+Made with ❤️ by Ilamvazhuthi Mathivanan 
 
 </div>
